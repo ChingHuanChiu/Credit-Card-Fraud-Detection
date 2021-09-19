@@ -11,13 +11,15 @@
    
 # Model
   * Use Encoder-Decoder + Classifier
-  * Learning rate warm-up with 5 epochs
+  ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/model.png)
+  
+  * Learning rate warm-up with 3 epochs
   
 # Result
   AUC : 0.99
   Fraud Recall : 0.948
   
-  ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/credict card detection.png)
+  ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/credict%20card%20detection.png)
   
 
     

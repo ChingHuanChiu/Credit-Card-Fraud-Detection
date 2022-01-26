@@ -1,0 +1,2 @@
+model_checkpoint_path: "autochcekpoint"
+all_model_checkpoint_paths: "autochcekpoint"

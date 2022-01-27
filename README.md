@@ -41,7 +41,7 @@
 
   * Confusion matrix
 
-    ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/unsupervised_cnf_matrix.png)
+    ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/unspervised_cnf_matrix.png)
 
   * Score
 

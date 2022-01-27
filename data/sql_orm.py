@@ -2,7 +2,7 @@ from typing import Dict
 
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, String, Integer, Float
+from sqlalchemy import Column, String, Integer
 from sqlalchemy.orm import sessionmaker
 
 
@@ -10,7 +10,7 @@ from sqlalchemy.orm import sessionmaker
 Base = declarative_base()
 
 
-engine = create_engine("mysql+pymysql://root:CHIOU840509@127.0.0.1:3306/Credict")
+engine = create_engine("mysql+pymysql://root:PASSWORD@192.168.43.57:3306/Credict")
 session = sessionmaker(bind=engine)()
 
 
@@ -53,4 +53,3 @@ def insert_todb(data: Dict[str, str], error_logger) -> None:
     except Exception as e:
         session.rollback()
         error_logger.info('Error encounter when insert data to db:', e)
-    # session.close()

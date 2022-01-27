@@ -36,11 +36,12 @@
   
   * 一倍標準差外的資料圖
 
-    [!image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/unsupervised_1std.png)
+    ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/unsupervised_1std.png)
+
 
   * Confusion matrix
 
-    ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/supervise_cnf_matrix.png)
+    ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/supervised_cnf_matrix.png)
 
   * Score
 

@@ -25,7 +25,7 @@
     * F1 Score : 0.95
     * Fraud Recall : 0.915
   
-  ## UnSupervised
+  ## Unsupervised
     * 評估方法, 步驟如下 : 
 
     1. 將測試資料進行模型預測
@@ -41,7 +41,7 @@
 
   * Confusion matrix
 
-    ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/supervised_cnf_matrix.png)
+    ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/unsupervised_cnf_matrix.png)
 
   * Score
 

@@ -14,7 +14,8 @@
   * Encoder-Decoder
     ![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/unsupervised_model.png)
   
-# Result
+# Evaluation
+
   ## Supervised
   * Confusion matrix
 
@@ -49,4 +50,6 @@
     * Fraud Recall : 0.64
  
 
-    
+# API
+
+![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/api)

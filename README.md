@@ -52,4 +52,4 @@
 
 # API
 
-![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/api)
+![image](https://github.com/ChingHuanChiu/Credit-Card-Fraud-Detection/blob/master/img/api.png)
